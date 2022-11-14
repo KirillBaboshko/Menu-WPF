@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Menu_WPF</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="8111d82ce51ee36c275c35dcf0139446.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="8111d82ce51ee36c275c35dcf0139446.jpg" />
+  </ItemGroup>
+
+</Project>
